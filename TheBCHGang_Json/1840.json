@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #1840",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1840.png",
+  "dna": "d76ef0d12c248086af9c06e097e0a4e96bfd2a03",
+  "edition": 1840,
+  "date": 1648697817962,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue Patteren"
+    },
+    {
+      "trait_type": "Special",
+      "value": "No Special"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Red Jumper"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Green Head"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes 19"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "No Glasses"
+    },
+    {
+      "trait_type": "Hair-Mask",
+      "value": "Hair Style 8"
+    },
+    {
+      "trait_type": "Smoke",
+      "value": "No Smoke"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #7229",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/7229.png",
+  "dna": "b42e88d1f74080bf7e67bdf164d060fff69f9a35",
+  "edition": 7229,
+  "date": 1648699534335,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "White Pattaren"
+    },
+    {
+      "trait_type": "Special",
+      "value": "Fire Hoop"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Blue Jacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Grey Head"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes 19"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Silver Glasses"
+    },
+    {
+      "trait_type": "Hair-Mask",
+      "value": "Hair Style 1"
+    },
+    {
+      "trait_type": "Smoke",
+      "value": "No Smoke"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #7583",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/7583.png",
+  "dna": "f055b33d7189d6082c0767ee6f06d90f7a4615bc",
+  "edition": 7583,
+  "date": 1648699641474,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green Light"
+    },
+    {
+      "trait_type": "Special",
+      "value": "No Special"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Red Jumper"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Green Head"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes 4"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Dark Balck Glasses"
+    },
+    {
+      "trait_type": "Hair-Mask",
+      "value": "Hair Style 1"
+    },
+    {
+      "trait_type": "Smoke",
+      "value": "Pipe With Small Smoke"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

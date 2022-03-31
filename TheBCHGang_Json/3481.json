@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #3481",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3481.png",
+  "dna": "928ccdd3e8076c55c02359aee068a7be59d8692a",
+  "edition": 3481,
+  "date": 1648698399543,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "White Pattaren"
+    },
+    {
+      "trait_type": "Special",
+      "value": "No Special"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Blue Jacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blue Head"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes 19"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Silver Glasses"
+    },
+    {
+      "trait_type": "Hair-Mask",
+      "value": "Hair Style 12"
+    },
+    {
+      "trait_type": "Smoke",
+      "value": "No Smoke"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

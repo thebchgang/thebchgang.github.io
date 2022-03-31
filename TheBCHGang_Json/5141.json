@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #5141",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/5141.png",
+  "dna": "4dec2a851311472fa1a061125d996d13bd4bef8d",
+  "edition": 5141,
+  "date": 1648698902873,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green Light"
+    },
+    {
+      "trait_type": "Special",
+      "value": "No Special"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White Shirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Navy Head"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes 5"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "No Glasses"
+    },
+    {
+      "trait_type": "Hair-Mask",
+      "value": "Hair Style 11"
+    },
+    {
+      "trait_type": "Smoke",
+      "value": "Pipe With Small Smoke"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

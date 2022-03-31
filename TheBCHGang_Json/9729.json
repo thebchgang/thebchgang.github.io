@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #9729",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/9729.png",
+  "dna": "8288ae7df73b0a76217b15b024949dacb7bed019",
+  "edition": 9729,
+  "date": 1648700382535,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green Light"
+    },
+    {
+      "trait_type": "Special",
+      "value": "Fire Hoop"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White Shirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Head"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes 2"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "No Glasses"
+    },
+    {
+      "trait_type": "Hair-Mask",
+      "value": "Hair Style 1"
+    },
+    {
+      "trait_type": "Smoke",
+      "value": "No Smoke"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

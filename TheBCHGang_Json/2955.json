@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #2955",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2955.png",
+  "dna": "079a76a1c159f1074f1d1d8cd7ca2451681db89d",
+  "edition": 2955,
+  "date": 1648698193168,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue Light"
+    },
+    {
+      "trait_type": "Special",
+      "value": "No Special"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Grey Jumper"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Grey Head"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes 8"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "No Glasses"
+    },
+    {
+      "trait_type": "Hair-Mask",
+      "value": "Hood And Robot Mask"
+    },
+    {
+      "trait_type": "Smoke",
+      "value": "No Smoke"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

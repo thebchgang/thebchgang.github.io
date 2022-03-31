@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #3929",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3929.png",
+  "dna": "0b58cd636d51248c01a6fbc74bd8441019d92171",
+  "edition": 3929,
+  "date": 1648698535959,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red Light"
+    },
+    {
+      "trait_type": "Special",
+      "value": "No Special"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Blue Jacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Grey Head"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes 1"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "One Lens Glasses"
+    },
+    {
+      "trait_type": "Hair-Mask",
+      "value": "Hair Style 8"
+    },
+    {
+      "trait_type": "Smoke",
+      "value": "No Smoke"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #7536",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/7536.png",
+  "dna": "c8b0a70b47bd0ce2e7157a9378bc9ef0f31c74c7",
+  "edition": 7536,
+  "date": 1648699627235,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue Light"
+    },
+    {
+      "trait_type": "Special",
+      "value": "Swords"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Blue Jacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blue Head"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes 4"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Black Shiny Glasses"
+    },
+    {
+      "trait_type": "Hair-Mask",
+      "value": "Hair Style 3"
+    },
+    {
+      "trait_type": "Smoke",
+      "value": "No Smoke"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

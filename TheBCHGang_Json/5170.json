@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #5170",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/5170.png",
+  "dna": "db89d8f2afcf38d46f6d595081bba4bad9ca8498",
+  "edition": 5170,
+  "date": 1648698911804,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple Light"
+    },
+    {
+      "trait_type": "Special",
+      "value": "Fire Hoop"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Grey Jumper"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pink Head"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes 4"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "One Lens Glasses"
+    },
+    {
+      "trait_type": "Hair-Mask",
+      "value": "Alien Mask"
+    },
+    {
+      "trait_type": "Smoke",
+      "value": "No Smoke"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

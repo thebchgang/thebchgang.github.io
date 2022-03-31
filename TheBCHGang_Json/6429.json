@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #6429",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/6429.png",
+  "dna": "ad7e4dd65cc3e0b425b21f38f5a0560c0d78a84f",
+  "edition": 6429,
+  "date": 1648699289739,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red Light"
+    },
+    {
+      "trait_type": "Special",
+      "value": "Swords"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Red Jumper"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pink Head"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes 8"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "No Glasses"
+    },
+    {
+      "trait_type": "Hair-Mask",
+      "value": "Blue Cap Backwards"
+    },
+    {
+      "trait_type": "Smoke",
+      "value": "No Smoke"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

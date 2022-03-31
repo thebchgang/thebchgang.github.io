@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #5918",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/5918.png",
+  "dna": "e0a95c46552cd2103439ebe97c29c8b7e83bd2b7",
+  "edition": 5918,
+  "date": 1648699132682,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink Light"
+    },
+    {
+      "trait_type": "Special",
+      "value": "No Special"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White Shirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Green Head"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes 8"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "No Glasses"
+    },
+    {
+      "trait_type": "Hair-Mask",
+      "value": "Hair Style 9"
+    },
+    {
+      "trait_type": "Smoke",
+      "value": "Cigarette"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

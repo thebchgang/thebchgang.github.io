@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #505",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/505.png",
+  "dna": "e93e3dbcd5f4d30e2d9f90717ed6c457e5a1ba09",
+  "edition": 505,
+  "date": 1648697393209,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red Light"
+    },
+    {
+      "trait_type": "Special",
+      "value": "No Special"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White Red With Hand Guns"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pink Head"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes 12"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "No Glasses"
+    },
+    {
+      "trait_type": "Hair-Mask",
+      "value": "Hair Style 1"
+    },
+    {
+      "trait_type": "Smoke",
+      "value": "No Smoke"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

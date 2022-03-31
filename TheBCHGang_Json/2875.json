@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #2875",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2875.png",
+  "dna": "448672e5e7ba86e2c51ff7b058fd2ccda7f3ad11",
+  "edition": 2875,
+  "date": 1648698158223,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "White Pattaren"
+    },
+    {
+      "trait_type": "Special",
+      "value": "No Special"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Black Red Jacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Navy Head"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes 12"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "No Glasses"
+    },
+    {
+      "trait_type": "Hair-Mask",
+      "value": "Hair Style 2"
+    },
+    {
+      "trait_type": "Smoke",
+      "value": "No Smoke"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

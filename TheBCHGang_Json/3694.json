@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #3694",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3694.png",
+  "dna": "767318bea0f08ffeeb93f5c94ae887541a0ad425",
+  "edition": 3694,
+  "date": 1648698464163,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink Light"
+    },
+    {
+      "trait_type": "Special",
+      "value": "No Special"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Blue Jacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Navy Head"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes 2"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Silver Glasses"
+    },
+    {
+      "trait_type": "Hair-Mask",
+      "value": "Black Cap Front"
+    },
+    {
+      "trait_type": "Smoke",
+      "value": "Cigarette"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

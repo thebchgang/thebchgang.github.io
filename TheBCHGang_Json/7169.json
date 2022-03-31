@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #7169",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/7169.png",
+  "dna": "ee5f474e15d6c9cb04b74cadc1f6d52aeb43bb9a",
+  "edition": 7169,
+  "date": 1648699515891,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue Light"
+    },
+    {
+      "trait_type": "Special",
+      "value": "No Special"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Red Jumper"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Navy Head"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes 2"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Silver Glasses"
+    },
+    {
+      "trait_type": "Hair-Mask",
+      "value": "Hair Style 5"
+    },
+    {
+      "trait_type": "Smoke",
+      "value": "Cigarette"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

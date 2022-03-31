@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #3742",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3742.png",
+  "dna": "7a4b233cb9c3ddce9357c44fc93410ca4d3f89a9",
+  "edition": 3742,
+  "date": 1648698479065,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue Light"
+    },
+    {
+      "trait_type": "Special",
+      "value": "Swords"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White Shirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Red Head"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes 6"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "One Lens Glasses"
+    },
+    {
+      "trait_type": "Hair-Mask",
+      "value": "Gas Mask Big"
+    },
+    {
+      "trait_type": "Smoke",
+      "value": "Cigarette"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #8332",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/8332.png",
+  "dna": "1a31c33fa7ec0ad2aa9f41243d1778a8cfb784e2",
+  "edition": 8332,
+  "date": 1648699888026,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green Light"
+    },
+    {
+      "trait_type": "Special",
+      "value": "Swords"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Red Jumper"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pink Head"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes 20"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "No Glasses"
+    },
+    {
+      "trait_type": "Hair-Mask",
+      "value": "Hair Style 1"
+    },
+    {
+      "trait_type": "Smoke",
+      "value": "No Smoke"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

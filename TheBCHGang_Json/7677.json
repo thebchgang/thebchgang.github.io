@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #7677",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/7677.png",
+  "dna": "b1d821dab65f43ce7ba2cfc3e5054cbbf91b3a5a",
+  "edition": 7677,
+  "date": 1648699669969,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green Shades"
+    },
+    {
+      "trait_type": "Special",
+      "value": "No Special"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Black Red Jacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Grey Head"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes 4"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "No Glasses"
+    },
+    {
+      "trait_type": "Hair-Mask",
+      "value": "Hair Style 1"
+    },
+    {
+      "trait_type": "Smoke",
+      "value": "No Smoke"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

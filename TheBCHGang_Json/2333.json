@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #2333",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2333.png",
+  "dna": "2fb631a6a652fbfd3c3920342e97fc4e12ab64ee",
+  "edition": 2333,
+  "date": 1648697985640,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green Light"
+    },
+    {
+      "trait_type": "Special",
+      "value": "No Special"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Red Jumper"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Red Head"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes 20"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "No Glasses"
+    },
+    {
+      "trait_type": "Hair-Mask",
+      "value": "Black Tammy"
+    },
+    {
+      "trait_type": "Smoke",
+      "value": "No Smoke"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

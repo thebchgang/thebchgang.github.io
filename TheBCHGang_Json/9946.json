@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #9946",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/9946.png",
+  "dna": "2b96579bf6de2ddff0dd3d4a28b9b3bbc0aef68f",
+  "edition": 9946,
+  "date": 1648700448832,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green Light"
+    },
+    {
+      "trait_type": "Special",
+      "value": "No Special"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Grey Jumper"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Grey Head"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes 1"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "No Glasses"
+    },
+    {
+      "trait_type": "Hair-Mask",
+      "value": "Hair Style 1"
+    },
+    {
+      "trait_type": "Smoke",
+      "value": "No Smoke"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #5444",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/5444.png",
+  "dna": "ce3a9930e9f010d0bb8f410b5c4e46d1a2b8cf1c",
+  "edition": 5444,
+  "date": 1648698993916,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue Paint"
+    },
+    {
+      "trait_type": "Special",
+      "value": "No Special"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Blue Jacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pink Head"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes 11"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "No Glasses"
+    },
+    {
+      "trait_type": "Hair-Mask",
+      "value": "Hair Style 9"
+    },
+    {
+      "trait_type": "Smoke",
+      "value": "Cigarette"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

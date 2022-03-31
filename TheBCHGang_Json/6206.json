@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #6206",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/6206.png",
+  "dna": "62c5b5f8fdcb307d7e3f1e758ff99a0b29fe235b",
+  "edition": 6206,
+  "date": 1648699219099,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink Light"
+    },
+    {
+      "trait_type": "Special",
+      "value": "No Special"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White Shirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pink Head"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes 2"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "No Glasses"
+    },
+    {
+      "trait_type": "Hair-Mask",
+      "value": "Hair Style 3"
+    },
+    {
+      "trait_type": "Smoke",
+      "value": "No Smoke"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

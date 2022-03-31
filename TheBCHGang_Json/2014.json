@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #2014",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2014.png",
+  "dna": "6d4ca871ccc8b58f94e4a1d990dab9b8080f93f5",
+  "edition": 2014,
+  "date": 1648697876272,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green Light"
+    },
+    {
+      "trait_type": "Special",
+      "value": "No Special"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Black Red Jacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pink Head"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes 2"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "No Glasses"
+    },
+    {
+      "trait_type": "Hair-Mask",
+      "value": "Black Tammy"
+    },
+    {
+      "trait_type": "Smoke",
+      "value": "Cigarette"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

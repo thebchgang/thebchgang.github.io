@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #4650",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4650.png",
+  "dna": "07b09e2ce4d8a37a0e71ae4e9aa78482353ebe00",
+  "edition": 4650,
+  "date": 1648698754191,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple Light"
+    },
+    {
+      "trait_type": "Special",
+      "value": "No Special"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Grey Jumper"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blue Head"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes 20"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "No Glasses"
+    },
+    {
+      "trait_type": "Hair-Mask",
+      "value": "Hair Style 9"
+    },
+    {
+      "trait_type": "Smoke",
+      "value": "No Smoke"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

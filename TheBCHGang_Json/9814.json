@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #9814",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/9814.png",
+  "dna": "5d3ddd6cf1e31efb1986b3cb8eedd7910d39967c",
+  "edition": 9814,
+  "date": 1648700408389,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "White Pattaren"
+    },
+    {
+      "trait_type": "Special",
+      "value": "Swords"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Black Red Jacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pink Head"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes 20"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "No Glasses"
+    },
+    {
+      "trait_type": "Hair-Mask",
+      "value": "Hair Style 4"
+    },
+    {
+      "trait_type": "Smoke",
+      "value": "Cigarette"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

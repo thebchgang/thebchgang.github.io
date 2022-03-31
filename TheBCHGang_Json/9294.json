@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #9294",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/9294.png",
+  "dna": "4a40a72f3a8df7ae8bbd9d6d2b4b754e79ad704b",
+  "edition": 9294,
+  "date": 1648700250206,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "White Pattaren"
+    },
+    {
+      "trait_type": "Special",
+      "value": "No Special"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Black Red Jacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Navy Head"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes 2"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Silver Glasses"
+    },
+    {
+      "trait_type": "Hair-Mask",
+      "value": "Hair Style 3"
+    },
+    {
+      "trait_type": "Smoke",
+      "value": "Cigarette"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

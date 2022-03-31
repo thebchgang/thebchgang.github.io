@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #6149",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/6149.png",
+  "dna": "5e4e4b2f241aeefbaa97923cc6bf4ce404e0c7a7",
+  "edition": 6149,
+  "date": 1648699202500,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "White Light"
+    },
+    {
+      "trait_type": "Special",
+      "value": "No Special"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Blue Jacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Navy Head"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes 8"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "No Glasses"
+    },
+    {
+      "trait_type": "Hair-Mask",
+      "value": "Hair Style 10"
+    },
+    {
+      "trait_type": "Smoke",
+      "value": "No Smoke"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #2437",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2437.png",
+  "dna": "8ed286fcb4bf95bcc06f7c5f1c7d214a1e3e29f7",
+  "edition": 2437,
+  "date": 1648698018768,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red Light"
+    },
+    {
+      "trait_type": "Special",
+      "value": "Flame"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White Shirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Head"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes 13"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "No Glasses"
+    },
+    {
+      "trait_type": "Hair-Mask",
+      "value": "Black Cap Front"
+    },
+    {
+      "trait_type": "Smoke",
+      "value": "No Smoke"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

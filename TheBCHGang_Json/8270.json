@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #8270",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/8270.png",
+  "dna": "1942e31deb3a6b5b61b2fbf0b28f7bd7c3181029",
+  "edition": 8270,
+  "date": 1648699857004,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green Light"
+    },
+    {
+      "trait_type": "Special",
+      "value": "Swords"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Black Red Jacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pink Head"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes 12"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "No Glasses"
+    },
+    {
+      "trait_type": "Hair-Mask",
+      "value": "Red Cap Front"
+    },
+    {
+      "trait_type": "Smoke",
+      "value": "No Smoke"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

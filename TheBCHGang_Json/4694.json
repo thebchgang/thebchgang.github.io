@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #4694",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4694.png",
+  "dna": "04d5df6b469b11e207e1f05ba07e1e5bc3d8cdf9",
+  "edition": 4694,
+  "date": 1648698767264,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Grey Shades"
+    },
+    {
+      "trait_type": "Special",
+      "value": "No Special"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Grey Jumper"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blue Head"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes 2"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Silver Glasses"
+    },
+    {
+      "trait_type": "Hair-Mask",
+      "value": "Hair Style 9"
+    },
+    {
+      "trait_type": "Smoke",
+      "value": "Smoke"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

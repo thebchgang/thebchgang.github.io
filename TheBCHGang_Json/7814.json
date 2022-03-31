@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #7814",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/7814.png",
+  "dna": "7e9bef5a3286de6bf1bc25d1f6bfa16646c9c3f7",
+  "edition": 7814,
+  "date": 1648699711150,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue Patteren"
+    },
+    {
+      "trait_type": "Special",
+      "value": "Swords"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Blue Jacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Navy Head"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes 12"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "No Glasses"
+    },
+    {
+      "trait_type": "Hair-Mask",
+      "value": "Gas Mask Big"
+    },
+    {
+      "trait_type": "Smoke",
+      "value": "No Smoke"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #10000",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/10000.png",
+  "dna": "3140b5f7e8f30925116b5c718c1e31e30e9cf5b4",
+  "edition": 10000,
+  "date": 1648700465294,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green Light"
+    },
+    {
+      "trait_type": "Special",
+      "value": "No Special"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Grey Jumper"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Green Head"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes 4"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "No Glasses"
+    },
+    {
+      "trait_type": "Hair-Mask",
+      "value": "Skill Mask"
+    },
+    {
+      "trait_type": "Smoke",
+      "value": "No Smoke"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

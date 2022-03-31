@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #2510",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2510.png",
+  "dna": "eeff28e0b1f50d9516ae6db00e59fa58b8f70bb2",
+  "edition": 2510,
+  "date": 1648698042304,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green Light"
+    },
+    {
+      "trait_type": "Special",
+      "value": "No Special"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Black Red Jacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Grey Head"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes 5"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "No Glasses"
+    },
+    {
+      "trait_type": "Hair-Mask",
+      "value": "Hair Style 12"
+    },
+    {
+      "trait_type": "Smoke",
+      "value": "No Smoke"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

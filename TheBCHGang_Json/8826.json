@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #8826",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/8826.png",
+  "dna": "ef0e21321ffbdc9c97c9683bad48c95c0a8b56b7",
+  "edition": 8826,
+  "date": 1648700104010,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red Light"
+    },
+    {
+      "trait_type": "Special",
+      "value": "No Special"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White Shirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pink Head"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes 6"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Silver Glasses"
+    },
+    {
+      "trait_type": "Hair-Mask",
+      "value": "Hair Style 10"
+    },
+    {
+      "trait_type": "Smoke",
+      "value": "No Smoke"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #9790",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/9790.png",
+  "dna": "a1af5f1b3e38896f8a50f6982cb9cb3a4fa820b4",
+  "edition": 9790,
+  "date": 1648700401063,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue Light"
+    },
+    {
+      "trait_type": "Special",
+      "value": "No Special"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Blue Jacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pink Head"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes 2"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "No Glasses"
+    },
+    {
+      "trait_type": "Hair-Mask",
+      "value": "Hair Style 3"
+    },
+    {
+      "trait_type": "Smoke",
+      "value": "No Smoke"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

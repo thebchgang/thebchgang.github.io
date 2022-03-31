@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #4662",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4662.png",
+  "dna": "1d2609e5599f2afcc6ff9c2f1d4f4f6ed1f2827d",
+  "edition": 4662,
+  "date": 1648698757786,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue Patteren"
+    },
+    {
+      "trait_type": "Special",
+      "value": "No Special"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Grey Jumper"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pink Head"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes 12"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Black Shiny Glasses"
+    },
+    {
+      "trait_type": "Hair-Mask",
+      "value": "Hair Style 8"
+    },
+    {
+      "trait_type": "Smoke",
+      "value": "Cigarette"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

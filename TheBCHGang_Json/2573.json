@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #2573",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2573.png",
+  "dna": "8ff9eff8665ddf6660f56805ac6fe9a8ccbb5a45",
+  "edition": 2573,
+  "date": 1648698062280,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green Light"
+    },
+    {
+      "trait_type": "Special",
+      "value": "Fire Hoop"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Red Jumper"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Navy Head"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes 13"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "No Glasses"
+    },
+    {
+      "trait_type": "Hair-Mask",
+      "value": "Black Tammy"
+    },
+    {
+      "trait_type": "Smoke",
+      "value": "No Smoke"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

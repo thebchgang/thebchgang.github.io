@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #2374",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2374.png",
+  "dna": "d3115a80c6d8b9ee7b2874a2a1b6ba9c8ef5204e",
+  "edition": 2374,
+  "date": 1648697998658,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red Light"
+    },
+    {
+      "trait_type": "Special",
+      "value": "Fire Hoop"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White Shirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pink Head"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes 5"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "No Glasses"
+    },
+    {
+      "trait_type": "Hair-Mask",
+      "value": "Hair Style 2"
+    },
+    {
+      "trait_type": "Smoke",
+      "value": "No Smoke"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

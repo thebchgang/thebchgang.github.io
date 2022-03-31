@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #2207",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2207.png",
+  "dna": "7f6ab8f18e7a0aaa38d2f622b3faf3d47695e61d",
+  "edition": 2207,
+  "date": 1648697941155,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red Light"
+    },
+    {
+      "trait_type": "Special",
+      "value": "No Special"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Grey Jumper"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Red Head"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes 4"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Silver Glasses"
+    },
+    {
+      "trait_type": "Hair-Mask",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Smoke",
+      "value": "No Smoke"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

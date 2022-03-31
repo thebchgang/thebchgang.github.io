@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #5604",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/5604.png",
+  "dna": "b72bcde5c4c79ba5cacb0e60b2bb2518223cbd3e",
+  "edition": 5604,
+  "date": 1648699040216,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue Light"
+    },
+    {
+      "trait_type": "Special",
+      "value": "Swords"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Red Jumper"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blue Head"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes 20"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Silver Glasses"
+    },
+    {
+      "trait_type": "Hair-Mask",
+      "value": "Hair Style 11"
+    },
+    {
+      "trait_type": "Smoke",
+      "value": "No Smoke"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

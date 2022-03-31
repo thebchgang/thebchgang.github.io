@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #5046",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/5046.png",
+  "dna": "03c83cbc468b54a2dbcbcd4a41bfd3c29c62b6a3",
+  "edition": 5046,
+  "date": 1648698874182,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Grey Shades"
+    },
+    {
+      "trait_type": "Special",
+      "value": "No Special"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Black Red Jacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Red Head"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes 19"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "No Glasses"
+    },
+    {
+      "trait_type": "Hair-Mask",
+      "value": "Hair Style 3"
+    },
+    {
+      "trait_type": "Smoke",
+      "value": "No Smoke"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

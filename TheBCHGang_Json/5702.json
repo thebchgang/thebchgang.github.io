@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #5702",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/5702.png",
+  "dna": "1c35ea4aa4d00a48feef2f64e7e92eb2c23660f6",
+  "edition": 5702,
+  "date": 1648699069210,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "White Pattaren"
+    },
+    {
+      "trait_type": "Special",
+      "value": "Flame"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Red Jumper"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pink Head"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes 9"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "No Glasses"
+    },
+    {
+      "trait_type": "Hair-Mask",
+      "value": "Red Cap Front"
+    },
+    {
+      "trait_type": "Smoke",
+      "value": "Cigarette"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

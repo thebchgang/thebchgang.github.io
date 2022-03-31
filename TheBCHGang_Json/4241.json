@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #4241",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4241.png",
+  "dna": "8bb15caa733f8b48d4ba5440b1a043dfa49f1b7e",
+  "edition": 4241,
+  "date": 1648698630521,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue Light"
+    },
+    {
+      "trait_type": "Special",
+      "value": "No Special"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White Shirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pink Head"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes 19"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "One Lens Glasses"
+    },
+    {
+      "trait_type": "Hair-Mask",
+      "value": "Black Tammy"
+    },
+    {
+      "trait_type": "Smoke",
+      "value": "No Smoke"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

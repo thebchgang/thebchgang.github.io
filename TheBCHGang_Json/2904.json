@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #2904",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2904.png",
+  "dna": "07dd9a660dbd8eb4b4eb6e007eb39f3c05dfc7d6",
+  "edition": 2904,
+  "date": 1648698171385,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple Light"
+    },
+    {
+      "trait_type": "Special",
+      "value": "No Special"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Blue Jacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Navy Head"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes 17"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "No Glasses"
+    },
+    {
+      "trait_type": "Hair-Mask",
+      "value": "Hair Style 1"
+    },
+    {
+      "trait_type": "Smoke",
+      "value": "No Smoke"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #5089",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/5089.png",
+  "dna": "34dbdead2e94d0bf63bcc1856d92bfbf01d77f2f",
+  "edition": 5089,
+  "date": 1648698886911,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green Light"
+    },
+    {
+      "trait_type": "Special",
+      "value": "Swords"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White Shirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Red Head"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes 15"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "No Glasses"
+    },
+    {
+      "trait_type": "Hair-Mask",
+      "value": "Hair Style 9"
+    },
+    {
+      "trait_type": "Smoke",
+      "value": "No Smoke"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

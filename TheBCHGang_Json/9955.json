@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #9955",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/9955.png",
+  "dna": "79c5a98bb9a2fb5ee3ee4e5070cdccbc5045ad1d",
+  "edition": 9955,
+  "date": 1648700451368,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple Light"
+    },
+    {
+      "trait_type": "Special",
+      "value": "No Special"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Red Jumper"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pink Head"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes 19"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Silver Glasses"
+    },
+    {
+      "trait_type": "Hair-Mask",
+      "value": "Hair Style 10"
+    },
+    {
+      "trait_type": "Smoke",
+      "value": "Pipe With Big Smoke"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

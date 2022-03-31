@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #6295",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/6295.png",
+  "dna": "67b89f142fa0e936ddd3e2ad4eeeccbfcf94585e",
+  "edition": 6295,
+  "date": 1648699248742,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green Light"
+    },
+    {
+      "trait_type": "Special",
+      "value": "No Special"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Grey Jumper"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pink Head"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes 5"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "No Glasses"
+    },
+    {
+      "trait_type": "Hair-Mask",
+      "value": "Hair Style 11"
+    },
+    {
+      "trait_type": "Smoke",
+      "value": "No Smoke"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

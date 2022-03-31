@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #8500",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/8500.png",
+  "dna": "fc7245d0c49044e956d2bcc2a33f3f4506d83ba3",
+  "edition": 8500,
+  "date": 1648699959896,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green Light"
+    },
+    {
+      "trait_type": "Special",
+      "value": "Swords"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White Shirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Green Head"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes 19"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Silver Glasses"
+    },
+    {
+      "trait_type": "Hair-Mask",
+      "value": "Hair Style 6"
+    },
+    {
+      "trait_type": "Smoke",
+      "value": "Cigarette"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

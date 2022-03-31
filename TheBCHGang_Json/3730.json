@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #3730",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3730.png",
+  "dna": "604b8c0b01fd0d5b1c25f6b8217d6cc15d6dec2c",
+  "edition": 3730,
+  "date": 1648698475353,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "White Pattaren"
+    },
+    {
+      "trait_type": "Special",
+      "value": "No Special"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Red Jumper"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Green Head"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes 19"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "No Glasses"
+    },
+    {
+      "trait_type": "Hair-Mask",
+      "value": "Hair Style 1"
+    },
+    {
+      "trait_type": "Smoke",
+      "value": "Cigarette"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

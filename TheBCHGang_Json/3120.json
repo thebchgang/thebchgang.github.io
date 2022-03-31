@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #3120",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3120.png",
+  "dna": "8aa2cfbf4b273403cee10bc6b0f19a9fcb1b0c1d",
+  "edition": 3120,
+  "date": 1648698262089,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red Light"
+    },
+    {
+      "trait_type": "Special",
+      "value": "No Special"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Red Jumper"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Navy Head"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes 20"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Silver Glasses"
+    },
+    {
+      "trait_type": "Hair-Mask",
+      "value": "Hair Style 2"
+    },
+    {
+      "trait_type": "Smoke",
+      "value": "Smoke"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

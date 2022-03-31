@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #6530",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/6530.png",
+  "dna": "44f46a7328fe400a7f75cea4e7730e5e9ef78e3a",
+  "edition": 6530,
+  "date": 1648699321806,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green Shades"
+    },
+    {
+      "trait_type": "Special",
+      "value": "No Special"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Blue Jacket With Tommy Gun"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Green Head"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes 11"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "No Glasses"
+    },
+    {
+      "trait_type": "Hair-Mask",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Smoke",
+      "value": "No Smoke"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

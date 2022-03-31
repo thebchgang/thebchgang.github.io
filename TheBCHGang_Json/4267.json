@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #4267",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4267.png",
+  "dna": "94ff9bb9a4c21ab9d6b9272c597d16bb6a4cea79",
+  "edition": 4267,
+  "date": 1648698638391,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green Light"
+    },
+    {
+      "trait_type": "Special",
+      "value": "Fire Hoop"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White Shirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Red Head"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes 18"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Silver Glasses"
+    },
+    {
+      "trait_type": "Hair-Mask",
+      "value": "Hair Style 1"
+    },
+    {
+      "trait_type": "Smoke",
+      "value": "Smoke"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #6488",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/6488.png",
+  "dna": "9db8e60ec140dc8871a8ddc68f58f9dc0d3d5227",
+  "edition": 6488,
+  "date": 1648699308745,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "White Pattaren"
+    },
+    {
+      "trait_type": "Special",
+      "value": "No Special"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Red Jumper"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pink Head"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes 18"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "No Glasses"
+    },
+    {
+      "trait_type": "Hair-Mask",
+      "value": "Hair Style 9"
+    },
+    {
+      "trait_type": "Smoke",
+      "value": "No Smoke"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

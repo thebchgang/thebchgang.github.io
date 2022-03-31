@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #4205",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4205.png",
+  "dna": "e1c0f9ba2edb171e3c3bdf98eee2cb7e85e9665e",
+  "edition": 4205,
+  "date": 1648698619578,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple Light"
+    },
+    {
+      "trait_type": "Special",
+      "value": "Swords"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Grey Jumper"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Navy Head"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes 4"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "No Glasses"
+    },
+    {
+      "trait_type": "Hair-Mask",
+      "value": "Light Blue and White Cap"
+    },
+    {
+      "trait_type": "Smoke",
+      "value": "Cigarette"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

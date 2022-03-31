@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #3975",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3975.png",
+  "dna": "83b5ab2977a7cc8e1c31fdaebeff6bf5c70e22ca",
+  "edition": 3975,
+  "date": 1648698549778,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green Light"
+    },
+    {
+      "trait_type": "Special",
+      "value": "No Special"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Red Jumper"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Navy Head"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes 12"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Black Shiny Glasses"
+    },
+    {
+      "trait_type": "Hair-Mask",
+      "value": "Black Cap Front"
+    },
+    {
+      "trait_type": "Smoke",
+      "value": "No Smoke"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

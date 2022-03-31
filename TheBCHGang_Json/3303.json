@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #3303",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3303.png",
+  "dna": "a26797ccdd78f7a0e4c3d95bcb18e4d3273a2d8a",
+  "edition": 3303,
+  "date": 1648698342837,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "White Pattaren"
+    },
+    {
+      "trait_type": "Special",
+      "value": "No Special"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Red Jumper"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Navy Head"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes 19"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "No Glasses"
+    },
+    {
+      "trait_type": "Hair-Mask",
+      "value": "Hair Style 10"
+    },
+    {
+      "trait_type": "Smoke",
+      "value": "No Smoke"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

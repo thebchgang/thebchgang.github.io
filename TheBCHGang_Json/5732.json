@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #5732",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/5732.png",
+  "dna": "59ad5ae2c47d22e6ee09e521aa42c03d7fb1c3b3",
+  "edition": 5732,
+  "date": 1648699077737,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red Light"
+    },
+    {
+      "trait_type": "Special",
+      "value": "No Special"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Big Green Boss"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pink Head"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes 19"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "No Glasses"
+    },
+    {
+      "trait_type": "Hair-Mask",
+      "value": "Hair Style 1"
+    },
+    {
+      "trait_type": "Smoke",
+      "value": "No Smoke"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

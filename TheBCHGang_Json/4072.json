@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #4072",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4072.png",
+  "dna": "e54ad2bc7fe4c0c0f05904fa07c4dc1cd28c2745",
+  "edition": 4072,
+  "date": 1648698578726,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red Light"
+    },
+    {
+      "trait_type": "Special",
+      "value": "No Special"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Black Red Jacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Navy Head"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes 1"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "No Glasses"
+    },
+    {
+      "trait_type": "Hair-Mask",
+      "value": "Hair Style 3"
+    },
+    {
+      "trait_type": "Smoke",
+      "value": "No Smoke"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

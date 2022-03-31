@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #9975",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/9975.png",
+  "dna": "732b3f9d9d1b0dd7e9bb1ceddcd6c2b8dbe3ae60",
+  "edition": 9975,
+  "date": 1648700457489,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green Light"
+    },
+    {
+      "trait_type": "Special",
+      "value": "No Special"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White Shirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pink Head"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes 2"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "No Glasses"
+    },
+    {
+      "trait_type": "Hair-Mask",
+      "value": "Hair Style 9"
+    },
+    {
+      "trait_type": "Smoke",
+      "value": "Pipe With Small Smoke"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #7741",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/7741.png",
+  "dna": "bae6df5dcd8e24c9ccd17d8fc518dc1ff2106cc7",
+  "edition": 7741,
+  "date": 1648699689150,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue Lightning"
+    },
+    {
+      "trait_type": "Special",
+      "value": "Swords"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Red Jumper"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blue Head"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes 1"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "No Glasses"
+    },
+    {
+      "trait_type": "Hair-Mask",
+      "value": "Hair Style 7"
+    },
+    {
+      "trait_type": "Smoke",
+      "value": "No Smoke"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

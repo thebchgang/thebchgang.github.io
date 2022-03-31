@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #2316",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2316.png",
+  "dna": "22ed6b713a3d7a07ff7a0cdcad87da410f90ecf7",
+  "edition": 2316,
+  "date": 1648697980102,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green Light"
+    },
+    {
+      "trait_type": "Special",
+      "value": "No Special"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Blue Jacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pink Head"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes 8"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "No Glasses"
+    },
+    {
+      "trait_type": "Hair-Mask",
+      "value": "Green Cap Front"
+    },
+    {
+      "trait_type": "Smoke",
+      "value": "Cigarette"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

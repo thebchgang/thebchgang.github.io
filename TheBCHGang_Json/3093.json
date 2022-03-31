@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #3093",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3093.png",
+  "dna": "bd260934f0accc3f1172c3bcbcb69c6f7bac32fb",
+  "edition": 3093,
+  "date": 1648698252539,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple Light"
+    },
+    {
+      "trait_type": "Special",
+      "value": "No Special"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Red Jumper"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Red Head"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes 5"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "No Glasses"
+    },
+    {
+      "trait_type": "Hair-Mask",
+      "value": "Black Cap Front"
+    },
+    {
+      "trait_type": "Smoke",
+      "value": "Cigarette"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

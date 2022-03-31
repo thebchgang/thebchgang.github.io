@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #7692",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/7692.png",
+  "dna": "5d4c2b5c1fddec6298d5bb7b90be795d2a4464e8",
+  "edition": 7692,
+  "date": 1648699674631,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green Shades"
+    },
+    {
+      "trait_type": "Special",
+      "value": "No Special"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White Shirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Grey Head"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes 8"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "No Glasses"
+    },
+    {
+      "trait_type": "Hair-Mask",
+      "value": "Green Cap Front"
+    },
+    {
+      "trait_type": "Smoke",
+      "value": "Cigarette"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

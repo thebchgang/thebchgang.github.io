@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #3634",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3634.png",
+  "dna": "35be4d8e4fcfb0c56eaaf65a0594142d8f18dd6d",
+  "edition": 3634,
+  "date": 1648698446096,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue Patteren"
+    },
+    {
+      "trait_type": "Special",
+      "value": "No Special"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Big Green Boss"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Head"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes 8"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "No Glasses"
+    },
+    {
+      "trait_type": "Hair-Mask",
+      "value": "Hair Style 6"
+    },
+    {
+      "trait_type": "Smoke",
+      "value": "Cigarette"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #9908",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/9908.png",
+  "dna": "86373d0c06b93f9072e1ae9cbf3bd1ca7d27b811",
+  "edition": 9908,
+  "date": 1648700437156,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink Light"
+    },
+    {
+      "trait_type": "Special",
+      "value": "No Special"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Big Green Boss"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pink Head"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes 19"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "No Glasses"
+    },
+    {
+      "trait_type": "Hair-Mask",
+      "value": "Hair Style 12"
+    },
+    {
+      "trait_type": "Smoke",
+      "value": "No Smoke"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

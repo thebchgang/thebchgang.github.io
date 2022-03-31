@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #2318",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2318.png",
+  "dna": "b9eb9ef6ebcc2e781b1134e6c91dc8170110aa4b",
+  "edition": 2318,
+  "date": 1648697980749,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green Light"
+    },
+    {
+      "trait_type": "Special",
+      "value": "Fire Hoop"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White Shirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pink Head"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes 19"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "No Glasses"
+    },
+    {
+      "trait_type": "Hair-Mask",
+      "value": "Hair Style 11"
+    },
+    {
+      "trait_type": "Smoke",
+      "value": "Cigarette"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

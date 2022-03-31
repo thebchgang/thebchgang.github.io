@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #6390",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/6390.png",
+  "dna": "79f5ebfe741b12ee91d2b433bfcb3605bdfd9733",
+  "edition": 6390,
+  "date": 1648699277815,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red Light"
+    },
+    {
+      "trait_type": "Special",
+      "value": "Swords"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Blue Jacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pink Head"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes 12"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "No Glasses"
+    },
+    {
+      "trait_type": "Hair-Mask",
+      "value": "Black Tammy"
+    },
+    {
+      "trait_type": "Smoke",
+      "value": "No Smoke"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

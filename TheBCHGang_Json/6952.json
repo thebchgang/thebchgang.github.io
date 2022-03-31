@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #6952",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/6952.png",
+  "dna": "fe7dde4fa1be6692b6f9df0ba710cbe0da19b4a5",
+  "edition": 6952,
+  "date": 1648699449265,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "White Light"
+    },
+    {
+      "trait_type": "Special",
+      "value": "Swords"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White Shirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Head"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes 9"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "No Glasses"
+    },
+    {
+      "trait_type": "Hair-Mask",
+      "value": "Hair Style 4"
+    },
+    {
+      "trait_type": "Smoke",
+      "value": "Cigarette"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

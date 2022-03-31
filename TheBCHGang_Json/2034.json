@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #2034",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2034.png",
+  "dna": "b8a57bccf53bcb6cd95d3a1f3cd5d51492eb94c9",
+  "edition": 2034,
+  "date": 1648697883474,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "White Pattaren"
+    },
+    {
+      "trait_type": "Special",
+      "value": "No Special"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Red Jumper"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Green Head"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes 4"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Black Shiny Glasses"
+    },
+    {
+      "trait_type": "Hair-Mask",
+      "value": "Hair Style 3"
+    },
+    {
+      "trait_type": "Smoke",
+      "value": "No Smoke"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

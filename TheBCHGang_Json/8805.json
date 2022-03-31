@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #8805",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/8805.png",
+  "dna": "ac5c1ee73da69a4fd52ce1a3d5cb4cab3d3ab93c",
+  "edition": 8805,
+  "date": 1648700097755,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green Light"
+    },
+    {
+      "trait_type": "Special",
+      "value": "No Special"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Blue Jacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blue Head"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes 4"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Silver Glasses"
+    },
+    {
+      "trait_type": "Hair-Mask",
+      "value": "Hair Style 6"
+    },
+    {
+      "trait_type": "Smoke",
+      "value": "Cigarette"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

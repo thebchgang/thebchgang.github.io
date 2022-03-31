@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #5871",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/5871.png",
+  "dna": "b50dc9648ecff8ffa7ce99b87d39eb04a47f2f8a",
+  "edition": 5871,
+  "date": 1648699118821,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue Lightning"
+    },
+    {
+      "trait_type": "Special",
+      "value": "Flame"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Grey Jumper"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blue Head"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes 3"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "No Glasses"
+    },
+    {
+      "trait_type": "Hair-Mask",
+      "value": "Hair Style 10"
+    },
+    {
+      "trait_type": "Smoke",
+      "value": "No Smoke"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #8438",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/8438.png",
+  "dna": "e0a4b8864ee08d567e49b47b2f4ee0c02dfd4dc1",
+  "edition": 8438,
+  "date": 1648699933115,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink Light"
+    },
+    {
+      "trait_type": "Special",
+      "value": "No Special"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Red Jumper"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Grey Head"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes 8"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Silver Glasses"
+    },
+    {
+      "trait_type": "Hair-Mask",
+      "value": "Hair Style 1"
+    },
+    {
+      "trait_type": "Smoke",
+      "value": "Cigarette"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

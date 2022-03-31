@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #3559",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3559.png",
+  "dna": "ab396c3fa3f40f53ddf2fb1ce722ea9f4e5ad1b1",
+  "edition": 3559,
+  "date": 1648698423145,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green Light"
+    },
+    {
+      "trait_type": "Special",
+      "value": "Swords"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Blue Jacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Red Head"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes 20"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "No Glasses"
+    },
+    {
+      "trait_type": "Hair-Mask",
+      "value": "Alien Mask"
+    },
+    {
+      "trait_type": "Smoke",
+      "value": "No Smoke"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

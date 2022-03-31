@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #9015",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/9015.png",
+  "dna": "2c2cbc4e20b88c1a7ae5182a7ec2759e08d8b21d",
+  "edition": 9015,
+  "date": 1648700164697,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple Light"
+    },
+    {
+      "trait_type": "Special",
+      "value": "No Special"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Blue Jacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Grey Head"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes 3"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "No Glasses"
+    },
+    {
+      "trait_type": "Hair-Mask",
+      "value": "Hair Style 3"
+    },
+    {
+      "trait_type": "Smoke",
+      "value": "Cigarette"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

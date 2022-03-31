@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #6495",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/6495.png",
+  "dna": "cb02b7fe4241ca10bd0c43b6488a9dfbba1bdb0e",
+  "edition": 6495,
+  "date": 1648699310874,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "White Pattaren"
+    },
+    {
+      "trait_type": "Special",
+      "value": "Swords"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White Shirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Navy Head"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes 1"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "No Glasses"
+    },
+    {
+      "trait_type": "Hair-Mask",
+      "value": "Black Cap Front"
+    },
+    {
+      "trait_type": "Smoke",
+      "value": "No Smoke"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

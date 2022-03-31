@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #8506",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/8506.png",
+  "dna": "8614d6a357e9ecd5718b46263dbcd1e52e2d4a9c",
+  "edition": 8506,
+  "date": 1648699962203,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple Light"
+    },
+    {
+      "trait_type": "Special",
+      "value": "Swords"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Blue Jacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pink Head"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes 3"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "No Glasses"
+    },
+    {
+      "trait_type": "Hair-Mask",
+      "value": "Hair Style 6"
+    },
+    {
+      "trait_type": "Smoke",
+      "value": "No Smoke"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

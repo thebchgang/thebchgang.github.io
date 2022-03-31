@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #7411",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/7411.png",
+  "dna": "4a23c3ff2ea713ed4cdbc37cc17e29a09295bf8a",
+  "edition": 7411,
+  "date": 1648699589249,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink Light"
+    },
+    {
+      "trait_type": "Special",
+      "value": "No Special"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Black Red Jacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pink Head"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes 3"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "No Glasses"
+    },
+    {
+      "trait_type": "Hair-Mask",
+      "value": "Hair Style 3"
+    },
+    {
+      "trait_type": "Smoke",
+      "value": "Cigarette"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #2946",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2946.png",
+  "dna": "b1de277e19c9e6f95da5f62a50aa1c5f3db7ad73",
+  "edition": 2946,
+  "date": 1648698189723,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue Light"
+    },
+    {
+      "trait_type": "Special",
+      "value": "Swords"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Grey Jumper"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Green Head"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes 1"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Silver Glasses"
+    },
+    {
+      "trait_type": "Hair-Mask",
+      "value": "Skill Mask"
+    },
+    {
+      "trait_type": "Smoke",
+      "value": "No Smoke"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

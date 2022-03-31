@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #3870",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3870.png",
+  "dna": "5c7a1e8b2a3a95310f55b968f7b6da7a6c0aa55e",
+  "edition": 3870,
+  "date": 1648698517750,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue Patteren"
+    },
+    {
+      "trait_type": "Special",
+      "value": "No Special"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Red Jumper"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pink Head"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes 12"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "No Glasses"
+    },
+    {
+      "trait_type": "Hair-Mask",
+      "value": "Red Cap Backwards"
+    },
+    {
+      "trait_type": "Smoke",
+      "value": "Smoke"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #1407",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1407.png",
+  "dna": "9ce8fe8f33a91f48b720ea8a8b5f27a0c6f8e583",
+  "edition": 1407,
+  "date": 1648697690531,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green Light"
+    },
+    {
+      "trait_type": "Special",
+      "value": "Fire Hoop"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Red Jumper"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blue Head"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes 5"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Silver Glasses"
+    },
+    {
+      "trait_type": "Hair-Mask",
+      "value": "Hair Style 12"
+    },
+    {
+      "trait_type": "Smoke",
+      "value": "No Smoke"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

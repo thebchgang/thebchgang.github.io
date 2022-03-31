@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #8408",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/8408.png",
+  "dna": "f6a18c61d2dea78d1c27c28425a7f303a3ea6cd0",
+  "edition": 8408,
+  "date": 1648699918227,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green Light"
+    },
+    {
+      "trait_type": "Special",
+      "value": "Swords"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White Shirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Navy Head"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes 7"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Silver Glasses"
+    },
+    {
+      "trait_type": "Hair-Mask",
+      "value": "Hair Style 9"
+    },
+    {
+      "trait_type": "Smoke",
+      "value": "No Smoke"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

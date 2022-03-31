@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #7795",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/7795.png",
+  "dna": "64dd7c8b6ac5fb5943f9c0c428ed42e6683c5fbc",
+  "edition": 7795,
+  "date": 1648699705524,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue Light"
+    },
+    {
+      "trait_type": "Special",
+      "value": "No Special"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Grey Jumper"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pink Head"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes 8"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Black Shiny Glasses"
+    },
+    {
+      "trait_type": "Hair-Mask",
+      "value": "Skill Mask"
+    },
+    {
+      "trait_type": "Smoke",
+      "value": "No Smoke"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #322",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/322.png",
+  "dna": "a0fc3ecb9f7730f7d7f1d6f4c7a6531b93e08c1f",
+  "edition": 322,
+  "date": 1648697325664,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue Paint"
+    },
+    {
+      "trait_type": "Special",
+      "value": "No Special"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Black Red Jacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pink Head"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes 2"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "No Glasses"
+    },
+    {
+      "trait_type": "Hair-Mask",
+      "value": "Hair Style 7"
+    },
+    {
+      "trait_type": "Smoke",
+      "value": "No Smoke"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

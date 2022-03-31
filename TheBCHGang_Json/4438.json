@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #4438",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4438.png",
+  "dna": "d4d71b89fa0b4c8f0d0d2b314e8d8b2de634e900",
+  "edition": 4438,
+  "date": 1648698690343,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue Light"
+    },
+    {
+      "trait_type": "Special",
+      "value": "No Special"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Blue Jacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Navy Head"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes 3"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "No Glasses"
+    },
+    {
+      "trait_type": "Hair-Mask",
+      "value": "Hair Style 8"
+    },
+    {
+      "trait_type": "Smoke",
+      "value": "No Smoke"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

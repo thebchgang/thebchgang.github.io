@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #5116",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/5116.png",
+  "dna": "15d3b3fcba7e5dc350d5be1df2a4e4179b6fdd81",
+  "edition": 5116,
+  "date": 1648698895212,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "White Pattaren"
+    },
+    {
+      "trait_type": "Special",
+      "value": "Swords"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White Shirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Head"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes 17"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "No Glasses"
+    },
+    {
+      "trait_type": "Hair-Mask",
+      "value": "Hair Style 11"
+    },
+    {
+      "trait_type": "Smoke",
+      "value": "No Smoke"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

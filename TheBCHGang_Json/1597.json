@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #1597",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1597.png",
+  "dna": "cc871acc5d0c8aa068d7e5cfc8385818e6dbbeb5",
+  "edition": 1597,
+  "date": 1648697746818,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red Light"
+    },
+    {
+      "trait_type": "Special",
+      "value": "Swords"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Black Red Jacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pink Head"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes 8"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "No Glasses"
+    },
+    {
+      "trait_type": "Hair-Mask",
+      "value": "Hair Style 12"
+    },
+    {
+      "trait_type": "Smoke",
+      "value": "Cigarette"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

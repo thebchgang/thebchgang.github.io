@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #8459",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/8459.png",
+  "dna": "ad3e3e43ec7a65a1fc2a6ec1f1b33592da1868b1",
+  "edition": 8459,
+  "date": 1648699941402,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "White Pattaren"
+    },
+    {
+      "trait_type": "Special",
+      "value": "Fire Hoop"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Red Jumper"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pink Head"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes 16"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "No Glasses"
+    },
+    {
+      "trait_type": "Hair-Mask",
+      "value": "Hair Style 3"
+    },
+    {
+      "trait_type": "Smoke",
+      "value": "No Smoke"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

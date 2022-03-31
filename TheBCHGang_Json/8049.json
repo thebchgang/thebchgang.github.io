@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #8049",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/8049.png",
+  "dna": "223cbd792bdbf0a39b8e4a1f17d8cf5e29eb932a",
+  "edition": 8049,
+  "date": 1648699782488,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue Light"
+    },
+    {
+      "trait_type": "Special",
+      "value": "Fire Hoop"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Red Jumper"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Red Head"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes 15"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "No Glasses"
+    },
+    {
+      "trait_type": "Hair-Mask",
+      "value": "Hair Style 1"
+    },
+    {
+      "trait_type": "Smoke",
+      "value": "Cigarette"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

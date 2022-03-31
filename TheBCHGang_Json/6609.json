@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #6609",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/6609.png",
+  "dna": "b7e8cc4777a99a7ed4a024ca72ac2e6df69b2b1f",
+  "edition": 6609,
+  "date": 1648699345715,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red Light"
+    },
+    {
+      "trait_type": "Special",
+      "value": "Flame"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Black Red Jacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Red Head"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes 3"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "No Glasses"
+    },
+    {
+      "trait_type": "Hair-Mask",
+      "value": "Hair Style 1"
+    },
+    {
+      "trait_type": "Smoke",
+      "value": "No Smoke"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

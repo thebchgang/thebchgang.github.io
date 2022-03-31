@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #1321",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1321.png",
+  "dna": "4ff54bb64d3dd3ead3a6dcf83895d0ab0df75fb3",
+  "edition": 1321,
+  "date": 1648697663777,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink Light"
+    },
+    {
+      "trait_type": "Special",
+      "value": "Fire Hoop"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Black Red Jacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blue Head"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes 1"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "No Glasses"
+    },
+    {
+      "trait_type": "Hair-Mask",
+      "value": "Black Cap Front"
+    },
+    {
+      "trait_type": "Smoke",
+      "value": "Cigarette"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

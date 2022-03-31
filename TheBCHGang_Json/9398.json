@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #9398",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/9398.png",
+  "dna": "2dcf41b1f210ae85ac09a6bb71a8c1d3f8e7796b",
+  "edition": 9398,
+  "date": 1648700281633,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue Light"
+    },
+    {
+      "trait_type": "Special",
+      "value": "Swords"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Blue Jacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Navy Head"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes 9"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "No Glasses"
+    },
+    {
+      "trait_type": "Hair-Mask",
+      "value": "Hair Style 10"
+    },
+    {
+      "trait_type": "Smoke",
+      "value": "Smoke"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

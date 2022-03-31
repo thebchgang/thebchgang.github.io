@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #3959",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3959.png",
+  "dna": "4da3f9602e6dbee8b0d0f40a1c1f1c4401c9be8b",
+  "edition": 3959,
+  "date": 1648698544978,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green Light"
+    },
+    {
+      "trait_type": "Special",
+      "value": "Flame"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Blue Jacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Navy Head"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes 20"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Silver Glasses"
+    },
+    {
+      "trait_type": "Hair-Mask",
+      "value": "Hair Style 2"
+    },
+    {
+      "trait_type": "Smoke",
+      "value": "Smoke"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

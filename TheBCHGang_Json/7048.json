@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #7048",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/7048.png",
+  "dna": "230ac4dc16efbaeb0b68fdcbcb30b2a2fb5a56aa",
+  "edition": 7048,
+  "date": 1648699479128,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink Light"
+    },
+    {
+      "trait_type": "Special",
+      "value": "Swords"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Big Green Boss"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pink Head"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes 12"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Dark Balck Glasses"
+    },
+    {
+      "trait_type": "Hair-Mask",
+      "value": "Hair Style 4"
+    },
+    {
+      "trait_type": "Smoke",
+      "value": "No Smoke"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

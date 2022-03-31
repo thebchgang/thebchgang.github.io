@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #3619",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3619.png",
+  "dna": "d8bfe0dbd2ed8c8dd5b113460c7f711eb9fb3a74",
+  "edition": 3619,
+  "date": 1648698441572,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green Light"
+    },
+    {
+      "trait_type": "Special",
+      "value": "No Special"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Grey Jumper"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Red Head"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes 5"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "No Glasses"
+    },
+    {
+      "trait_type": "Hair-Mask",
+      "value": "Hair Style 2"
+    },
+    {
+      "trait_type": "Smoke",
+      "value": "Smoke"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

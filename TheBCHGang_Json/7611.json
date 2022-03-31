@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #7611",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/7611.png",
+  "dna": "b39dc0f5902e6cdf9a0222ec3c2f029a71eab6a6",
+  "edition": 7611,
+  "date": 1648699649970,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue Light"
+    },
+    {
+      "trait_type": "Special",
+      "value": "No Special"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Blue Jacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Head"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes 20"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "No Glasses"
+    },
+    {
+      "trait_type": "Hair-Mask",
+      "value": "Hair Style 1"
+    },
+    {
+      "trait_type": "Smoke",
+      "value": "No Smoke"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

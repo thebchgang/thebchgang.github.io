@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #4905",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4905.png",
+  "dna": "10d7fb84f34ea22bb5a720d1d190c6d4842d09ae",
+  "edition": 4905,
+  "date": 1648698831723,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red Light"
+    },
+    {
+      "trait_type": "Special",
+      "value": "No Special"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Red Jumper"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Green Head"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes 1"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "No Glasses"
+    },
+    {
+      "trait_type": "Hair-Mask",
+      "value": "Black Cap Front"
+    },
+    {
+      "trait_type": "Smoke",
+      "value": "No Smoke"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

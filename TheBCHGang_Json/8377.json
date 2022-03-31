@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #8377",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/8377.png",
+  "dna": "fa1e83e6efc0a8b8e8b5cd4eb81dd13d3fdf9dc6",
+  "edition": 8377,
+  "date": 1648699907575,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red Light"
+    },
+    {
+      "trait_type": "Special",
+      "value": "No Special"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Big Green Boss"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Navy Head"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes 5"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "No Glasses"
+    },
+    {
+      "trait_type": "Hair-Mask",
+      "value": "Hair Style 11"
+    },
+    {
+      "trait_type": "Smoke",
+      "value": "Cigarette"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

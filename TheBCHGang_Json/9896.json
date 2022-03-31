@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #9896",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/9896.png",
+  "dna": "2383ebe14c5a854cdbaccfc5c0c596f70e5eb42c",
+  "edition": 9896,
+  "date": 1648700433488,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green Light"
+    },
+    {
+      "trait_type": "Special",
+      "value": "No Special"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Grey Jumper"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Grey Head"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes 20"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "No Glasses"
+    },
+    {
+      "trait_type": "Hair-Mask",
+      "value": "Hair Style 6"
+    },
+    {
+      "trait_type": "Smoke",
+      "value": "Cigarette"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
