@@ -1,0 +1,22 @@
+:root {
+  --primary: hsl(285, 92%, 26%); 
+  --primary-text: #cd0e6e;
+  --secondary: #9728ec;
+  --secondary-text: #e5c0ee;
+  --accent: #1504228f;
+  --accent-text: #cd0e6e;
+}
+
+
+.social img {
+  width: 32px;
+  margin: 0 10px;
+  display: inline-block;
+}
+
+.countdown {
+  margin-top: 1em;
+  color: white;
+  font-size: 2em;
+}
+
