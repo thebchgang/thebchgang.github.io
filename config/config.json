@@ -1,22 +1,22 @@
 {
-  "CONTRACT_ADDRESS": "0x0",
-  "SCAN_LINK": "https://www.smartscan.cash/address/0x0",
+  "CONTRACT_ADDRESS": "0x651D28aa119e484008037DbCb783DB68F7Ac590A",
+  "SCAN_LINK": "https://www.smartscan.cash/address/0x651D28aa119e484008037DbCb783DB68F7Ac590A",
   "NETWORK": {
     "NAME": "SmartBCH",
     "SYMBOL": "BCH",
     "ID": 10000
   },
   "NFT_NAME": "BCH Gang",
-  "SYMBOL": "BCHG",
+  "SYMBOL": "GANG",
   "MAX_SUPPLY": 10000,
-  "MAX_MINT_PER_TX": 25,
+  "MAX_MINT_PER_TX": 30,
   "WEI_COST": 30000000000000000,
   "DISPLAY_COST": 0.03,
-  "GAS_LIMIT": 285000,
+  "GAS_LIMIT": 250000,
   "MARKETPLACE": "Oasis",
-  "MARKETPLACE_LINK": "https://oasis.cash/collection/0x0",
+  "MARKETPLACE_LINK": "https://oasis.cash/collection/0x651D28aa119e484008037DbCb783DB68F7Ac590A",
   "SHOW_BACKGROUND": true,
-  "LAUNCH_DATE": "2022-04-20T04:20:00.000-00:00",
+  "LAUNCH_DATE": "2022-04-18T20:00:00.000-00:00",
   "END_DATE": "2023-06-09T06:09:00.000-00:00"
 }
 
